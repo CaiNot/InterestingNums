@@ -2,4 +2,6 @@
 <project version="4">
   <component name="CMakeWorkspace" PROJECT_DIR="$PROJECT_DIR$" />
   <component name="JavaScriptSettings">
-    <op
+    <option name="languageLevel" value="ES6" />
+  </component>
+</project>
